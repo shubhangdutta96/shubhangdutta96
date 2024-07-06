@@ -1,5 +1,3 @@
-## Hi there, I'm Shubhang Dutta 👋
-
 ### About Me
 
 - 👋 Hi, I’m @shubhangdutta96  
@@ -16,16 +14,17 @@
 ### Skills
 
 - Programming Languages: Scala, Java
-- Web Development: Node.js, JavaScript
+- Algorithmic Skils: Data Structures and Algorithms (DSA), Problem Solving
+- Web Development: HTML, CSS, JavaScript
 - Tools: Akka HTTP, PostgreSQL, Slick, sbt, Typesafe Config, PureConfig, spray-json, Logback, ScalaTest, Akka HTTP Testkit, HikariCP, Flyway
 
 ### Education
 
 - 📚 Bachelor's Degree in Computer Science Engineering
-  - Gurukul Kangri Vishwavidyalaya (GKV), Haridwar
+  - Gurukul Kangri Vishwavidyalaya (GKV), Haridwar  (Dec, 2021 – Aug, 2025)
   - CGPA: 8.3/10
 
 ### Interests
 
 - ⚽ Sports: Served as college sports secretary
-- 🎵 Music: Enjoy traveling and listening to music
+- 🎵 Music: Enjoy exploring new places and listening to music
