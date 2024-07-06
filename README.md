@@ -1,5 +1,3 @@
-### About Me
-
 - 👋 Hi, I’m @shubhangdutta96  
 - 💻 Interested in Software Development
 - 🌱 Currently learning Scala and its frameworks
