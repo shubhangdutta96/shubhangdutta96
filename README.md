@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏</h1>
+<h1 align="center">Namaskar 🙏</h1>
 <h3 align="center">A Coding Enthusiast and learner</h3>
 
 - 💻 Interested in Software Development
