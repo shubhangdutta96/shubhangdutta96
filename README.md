@@ -1,6 +1,5 @@
 <h1 align="center">Namaskar 🙏</h1>
 <h2 align="center">I am Shubhang Dutta</h2>
-//<h3 align="center">A Curious Engineer!</h3>
 
 - 💻 Interested in Software Development
 
