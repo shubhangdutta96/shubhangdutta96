@@ -1,11 +1,11 @@
 <h1 align="center">Namaskar...🙏</h1>
 <h2 align="center">I am Shubhang Dutta</h2>
 
-- 💻 Interested in Software Development
+- 💻 Interested in Software Development.
 
-- 🌱 Currently learning Java and its frameworks
+- 🌱 Currently learning Java and its frameworks (SpringBoot).
   
-- 💞 Looking to collaborate on anything built using Java and Scala
+- 💞 Looking to collaborate on anything built using Java and Scala.
   
 - 📫 Reach me at shubhangdutta96@gmail.com
 
