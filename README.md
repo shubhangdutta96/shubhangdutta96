@@ -17,7 +17,7 @@
 <a href="https://instagram.com/https://www.instagram.com/_shubhang_0001/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="https://www.instagram.com/_shubhang_0001/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/Shubhang09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Shubhang09/" height="30" width="40" /></a>
 
-<h4 align="left">Portfolio Website:</h4>
+<h4 align="left">Portfolio_Website</h4>
 <a href="https://shubhangdutta.netlify.app/" target="blank"><img align="center" src="https://github.com/shubhangdutta96/Portfolio-Website/blob/main/assets/portfolioProject2.jpg" alt="https://www.linkedin.com/in/shubhangdutta" height="55" width="55" /></a>
 
 </p>
