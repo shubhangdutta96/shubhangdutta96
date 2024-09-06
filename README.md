@@ -1,4 +1,4 @@
-<h1 align="center">Namaskar...🙏</h1>
+<h1 align="center">Namaskar..🙏</h1>
 <h2 align="center">I am Shubhang Dutta</h2>
 
 - 💻 Upcoming Software Engineer.
