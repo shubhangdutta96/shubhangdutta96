@@ -4,7 +4,7 @@
 
 - 🚀 Upcoming Software Engineer.
 
-- 🌱 Currently learning Java and its frameworks (SpringBoot).
+- 🌱 Currently working with Java and Scala.
   
 - 💞 Looking to collaborate on anything built using Java and Scala.
   
